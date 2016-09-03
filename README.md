@@ -5,3 +5,5 @@ This repository contains projects for the traineeship.
 
 master changing
 Let's make some politics and economics.
+
+mastering
